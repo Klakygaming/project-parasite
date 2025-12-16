@@ -1,0 +1,3 @@
+[submodule "project-parasite"]
+	path = project-parasite
+	url = ./project-parasite/
